@@ -13,3 +13,16 @@
         android:textSize="20sp"
         android:gravity="center"
         android:padding="16dp"/>
+
+    <!--白色块：Responsive Layout 1-->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Responsive Layout 1"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:background="#FFFFFF"
+        android:padding="24dp"/>
+
+
+
